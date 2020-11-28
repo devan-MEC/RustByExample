@@ -1,1 +1,1 @@
-https://doc.rust-lang.org/stable/rust-by-example/
+YooHoo and a bottle of rum!
